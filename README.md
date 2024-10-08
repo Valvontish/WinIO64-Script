@@ -1,12 +1,18 @@
+# FIXES THIS PROBLEM
+![Error Popup](https://github.com/user-attachments/assets/8fc5c403-39d8-4ee9-8ebf-d018a950e337)
+
 ## Contents
 - [Tutorial](#tutorial)
 - [Set on Startup](#run-on-startup)
 
 ## Tutorial
 
-Launch ```winio64.bat``` and follow instructions.
+#### (If you're new to github)
+Click 'Code', then 'Download ZIP'
 
-![Error Popup](https://github.com/user-attachments/assets/8fc5c403-39d8-4ee9-8ebf-d018a950e337)
+![Screenshot 2024-10-08 150753](https://github.com/user-attachments/assets/8bb5a979-105b-41f8-a153-d5da20a13835)
+
+Launch ```winio64.bat``` and follow instructions.
 
 ## Run on Startup
 
