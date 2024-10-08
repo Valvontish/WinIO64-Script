@@ -1,6 +1,6 @@
 ## Contents
-- [WinIO64-Script](#-winio64-script)
-- [Set on Startup](#-set-on-startup)
+- [WinIO64-Script](#winio64-script)
+- [Set on Startup](#set-on-startup)
 
 ## WinIO64-Script
 
