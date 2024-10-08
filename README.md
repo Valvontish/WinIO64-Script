@@ -27,11 +27,11 @@ Launch ```winio64.bat``` and follow instructions.
 ### Windows 11
 
 - Click 'Show more options'
-- Click Create Shortcut
+- Click 'Create Shortcut'
 
 ### Windows 10
 
-- Click Create Shortcut
+- Click 'Create Shortcut'
 
   
 
